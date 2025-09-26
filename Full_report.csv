@@ -1,0 +1,23 @@
+section,variable,stat,value
+summary_stats,Height_m,mean,1.7424399999999998
+summary_stats,Weight_kg,mean,59.828833603
+summary_stats,BMI,mean,19.682000000000002
+summary_stats,Age,mean,32.5
+summary_stats,Grip strength,mean,26.0
+summary_stats,Height_m,median,1.7386300000000001
+summary_stats,Weight_kg,median,61.68856232
+summary_stats,BMI,median,19.185000000000002
+summary_stats,Age,median,29.5
+summary_stats,Grip strength,median,27.0
+summary_stats,Height_m,std,0.04243481170506643
+summary_stats,Weight_kg,std,6.455440882550928
+summary_stats,BMI,std,1.7809722687965195
+summary_stats,Age,std,12.860361149240285
+summary_stats,Grip strength,std,4.521553322083512
+correlation,Grip strength vs Frailty_binary,pearson_corr,-0.4758668672668007
+agegroup_counts,<30,count,5.0
+agegroup_counts,30–45,count,3.0
+agegroup_counts,46–60,count,2.0
+agegroup_counts,>60,count,0.0
+frailty_counts,0,count,6.0
+frailty_counts,1,count,4.0
